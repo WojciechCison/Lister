@@ -1,0 +1,2 @@
+# Lister
+ Projekt PPK studia
