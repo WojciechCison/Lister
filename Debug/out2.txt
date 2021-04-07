@@ -1,0 +1,9 @@
+ala: 1
+i: 7
+ma: 1, 7
+nie: 7
+sagasgkk: 6
+sal: 1
+sgas: 2
+spa: 1
+zzycia: 7
